@@ -4,7 +4,7 @@ return(
   <>
  <nav className="w-[1920px] h-[92px] bg-[#043873] flex items-center justify-between px-[220px] py-4 text-white ">
   <div className="">
-    <Image src={"/logo.png"} alt={"Logo Text"} width={191} height={61}></Image>
+    <Image src={"/Logo.png"} alt={"Logo Text"} width={191} height={61}></Image>
   </div>
   <div className="flex items-center justify-center ">
     <ul className="w-[549px] flex items-center gap-[32px]">
